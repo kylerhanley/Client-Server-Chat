@@ -1,11 +1,11 @@
-Real-Time Chat Application with Rock, Paper, Scissors Game
-Overview
+#Real-Time Chat Application with Rock, Paper, Scissors Game
+##Overview
 This Python socket-based application provides users with a real-time chat experience and incorporates a rock, paper, scissors game. The application follows a client-server architecture, and communication between clients and the server is facilitated using Python's socket module.
 
-Technologies Used
+##Technologies Used
 Python (socket module):
 The backend of the application is developed using Python's socket module to enable communication between clients and the server.
-How it Works
+##How it Works
 Client-Server Architecture:
 
 The application follows a client-server architecture, emphasizing the principles of socket communication.
@@ -18,7 +18,7 @@ The application includes a game feature where clients and the server take turns 
 Main Goal
 The primary goal of this project is to deepen understanding of socket communication and other networking principles. By implementing a real-time chat application with an integrated game, the project aims to provide hands-on experience in building networked applications.
 
-Getting Started
+##Getting Started
 Prerequisites
 Python installed (version 3.6 or higher)
 Running the Application
@@ -46,7 +46,7 @@ Copy code
 python client.py
 Follow on-screen instructions to exchange messages and play the rock, paper, scissors game.
 
-Usage
+##Usage
 Connect to the server by running the client script.
 
 Exchange messages with other connected clients in real-time, gaining insights into socket communication principles.
